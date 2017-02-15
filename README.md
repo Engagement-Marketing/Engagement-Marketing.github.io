@@ -13,14 +13,14 @@ Rules that visitors must follow to participate.
 4. No Surveys/ Homework or Assignments: Don't post them. we're trying to get a dialog going, not do your homework/work assignment
 5. No URL Shorteners: Any post or comment using a URL shortener will be removed.
 
-**Links of Intrest**
+**Links of Interest**
 
 - [Subreddit Rules](https://www.reddit.com/r/EngagementMarketing/about/rules/)
 - [Marketing Wiki](https://www.reddit.com/r/EngagementMarketing/wiki/index)
 
 ---
 
-### Rules for [r/EngagementMarketing](https://www.reddit.com/r/EngagementMarketing/about/rules/ "Visit the Rules!") ###
+### Rules for [r/EngagementMarketing](https://www.reddit.com/r/EngagementMarketing/about/rules/ "Visit the Rules!")
 Rules that visitors must follow to participate. *May be used as reasons to report, remove or ban.*
 
 1. **Be Respectful** Do we still need to remind you?
@@ -31,7 +31,7 @@ Rules that visitors must follow to participate. *May be used as reasons to repor
 
 ---
 
-### Subreddits of Interest ###
+### Subreddits of Interest
 
 **Marketing Flavours**
 
