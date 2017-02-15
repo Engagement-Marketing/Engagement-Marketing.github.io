@@ -1,5 +1,5 @@
 #r/EngagementMarketing#
-a Reddit community [r/EngagementMarketing/](https://www.reddit.com/r/EngagementMarketing/
+a Reddit community [r/EngagementMarketing/](https://www.reddit.com/r/EngagementMarketing/)
 
 Engagement Marketing is a strategy that directly engages consumers to participate in a brand experience. Rather than looking at consumers as passive recipients of an advertisement, engagement marketing strategies understand that consumers can be actively involved in the production of the brand message which shifts marketing development into building stronger connections.
 
