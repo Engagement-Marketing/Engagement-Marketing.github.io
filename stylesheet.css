@@ -14,15 +14,29 @@ body,
   background-color: #075aaa;
   color: #FAFAFA;
   border: 0; }
+  .dropdown.srdrop .selected {
+	color: #ffcc2f; }
 
 #header-bottom-left {
   padding-top: 3em;
   padding-bottom: 3em;
   background-color: #075aaa; }
-  #header-bottom-left #header-img {
-    width: 31px;
-    height: 24px;
-    margin-left: 5em; }
+
+#header-img.default-header,#header-img {
+	z-index: 99;
+	width: 0px;
+	padding-left: 50px;
+	height: 36px;
+	background-image:url(%%reddit-sprite%%);
+	background-position: -208px -54px;
+	position: relative;
+	top: 0px;
+	margin: 0;
+	margin-left: 50px;}
+
+  #header-img.default-header:hover,#header-img:hover {
+  	background-position:-208px -102px;}
+
   #header-bottom-left .redditname,
   #header-bottom-left .redditname > a {
     color: #FAFAFA;
