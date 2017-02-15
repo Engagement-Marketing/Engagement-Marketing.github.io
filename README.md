@@ -35,39 +35,39 @@ Rules that visitors must follow to participate. *May be used as reasons to repor
 
 **Marketing Flavours**
 
-- [https://www.reddit.com/r/webmarketing/](r/WebMarketing)
-- [https://www.reddit.com/r/Emailmarketing/](r/EmailMarketing)
-- [https://www.reddit.com/r/mobilemarketing/](r/MobileMarketing/)
-- [https://www.reddit.com/r/Affiliatemarketing/](r/AffiliateMarketing)
-- [https://www.reddit.com/r/ContentMarketing/](r/ContentMarketing/)
-- [https://www.reddit.com/r/PerformanceMarketing/](r/PerformanceMarketing/)
-- [https://www.reddit.com/r/SocialMediaMarketing/](r/SocialMediaMarketing/)
+- [r/WebMarketing](https://www.reddit.com/r/webmarketing/)
+- [r/EmailMarketing](https://www.reddit.com/r/Emailmarketing/)
+- [r/MobileMarketing/](https://www.reddit.com/r/mobilemarketing/)
+- [r/AffiliateMarketing](https://www.reddit.com/r/Affiliatemarketing/)
+- [r/ContentMarketing/](https://www.reddit.com/r/ContentMarketing/)
+- [r/PerformanceMarketing/](https://www.reddit.com/r/PerformanceMarketing/)
+- [r/SocialMediaMarketing/](https://www.reddit.com/r/SocialMediaMarketing/)
 
 **Traditional**
 
-- [https://www.reddit.com/r/advertising/](r/advertising)
-- [https://www.reddit.com/r/copywriting/](r/copywriting)
-- [https://www.reddit.com/r/contentstrategist](r/contentstrategist)
-- [https://www.reddit.com/r/adops/ "Advertising Operations (AdOps)"](r/adops)
-- [https://www.reddit.com/r/AdPorn/](r/adporn)
+- [r/advertising](https://www.reddit.com/r/advertising/)
+- [r/copywriting](https://www.reddit.com/r/copywriting/)
+- [r/contentstrategist](https://www.reddit.com/r/contentstrategist)
+- [r/adops](https://www.reddit.com/r/adops/)
+- [r/adporn](https://www.reddit.com/r/AdPorn/)
 
 **Digital**
 
-- [https://www.reddit.com/r/analytics/](r/analytics)
-- [https://www.reddit.com/r/bigseo/](r/bigSEO)
-- [https://www.reddit.com/r/content/](r/content)
-- [https://www.reddit.com/r/PPC/](r/PPC)
-- [https://www.reddit.com/r/SEO/](r/SEO)
-- [https://www.reddit.com/r/socialmedia/](r/socialmedia)
-- [https://www.reddit.com/r/socialmediaanalytics/](r/socialmediaanalytics/)
+- [r/analytics](https://www.reddit.com/r/analytics/)
+- [r/bigseo](https://www.reddit.com/r/bigseo/)
+- [r/content](https://www.reddit.com/r/content/)
+- [r/PPC](https://www.reddit.com/r/PPC/)
+- [r/SEO](https://www.reddit.com/r/SEO/)
+- [r/socialmedia](https://www.reddit.com/r/socialmedia/)
+- [r/socialmediaanalytics](https://www.reddit.com/r/socialmediaanalytics/)
 
 **Business**
 
-- [https://www.reddit.com/r/freelance/](r/freelance)
-- [https://www.reddit.com/r/smallbusiness/](r/smallbusiness)
-- [https://www.reddit.com/r/startups/](r/startups)
-- [https://www.reddit.com/r/Entrepreneur/](r/entrepreneur)
-- [https://www.reddit.com/r/advancedentrepreneur/](r/advancedentrepreneur)
+- [r/freelance](https://www.reddit.com/r/freelance/)
+- [r/smallbusiness](https://www.reddit.com/r/smallbusiness/)
+- [r/startups](https://www.reddit.com/r/startups/)
+- [r/entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+- [r/advancedentrepreneur](https://www.reddit.com/r/advancedentrepreneur/)
 
 [π](http://redditmetrics.com/r/EngagementMarketing "you found a secret!")
 
