@@ -16,18 +16,6 @@ Rules that visitors must follow to participate.
 **Links of Interest**
 
 - [Subreddit Rules](https://www.reddit.com/r/EngagementMarketing/about/rules/)
-- [Marketing Wiki](https://www.reddit.com/r/EngagementMarketing/wiki/index)
-
----
-
-### Rules for [r/EngagementMarketing](https://www.reddit.com/r/EngagementMarketing/about/rules/ "Visit the Rules!")
-Rules that visitors must follow to participate. *May be used as reasons to report, remove or ban.*
-
-1. **Be Respectful** Do we still need to remind you?
-2. **No Excessive Self-Promotion**: This is not a place to advertise your products.
-3. **No Blog Spam/ No Spam**: This is a place for marketing discussions. What's blog spam? We'll know it when we see it. Looking at you multi-level marketing
-4. **No Surveys/ Homework or Assignments**: Don't post them. we're trying to get a dialog going, not do your homework/work assignment
-5. **No URL Shorteners**: Any post or comment using a URL shortener will be removed.
 
 ---
 
@@ -69,6 +57,6 @@ Rules that visitors must follow to participate. *May be used as reasons to repor
 - [r/entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 - [r/advancedentrepreneur](https://www.reddit.com/r/advancedentrepreneur/)
 
-[π](http://redditmetrics.com/r/EngagementMarketing "you found a secret!")
+[?](http://redditmetrics.com/r/EngagementMarketing "you found a secret!")
 
 ---
