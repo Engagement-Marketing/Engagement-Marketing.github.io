@@ -89,7 +89,7 @@ body,
   padding: .75em; }
 
 #search input[type="text"] {
-  border: medium #075aaa;
+  border: medium #eb2226;
   outline: none;
   transition: border-width .2s ease;
   border-style: none none solid none;
