@@ -35,39 +35,39 @@ Rules that visitors must follow to participate. *May be used as reasons to repor
 
 **Marketing Flavours**
 
-- r/WebMarketing
-- r/EmailMarketing
-- r/MobileMarketing/
-- r/AffiliateMarketing
-- r/ContentMarketing/
-- r/PerformanceMarketing/
-- r/SocialMediaMarketing/
+- [https://www.reddit.com/r/webmarketing/](r/WebMarketing)
+- [https://www.reddit.com/r/Emailmarketing/](r/EmailMarketing)
+- [https://www.reddit.com/r/mobilemarketing/](r/MobileMarketing/)
+- [https://www.reddit.com/r/Affiliatemarketing/](r/AffiliateMarketing)
+- [https://www.reddit.com/r/ContentMarketing/](r/ContentMarketing/)
+- [https://www.reddit.com/r/PerformanceMarketing/](r/PerformanceMarketing/)
+- [https://www.reddit.com/r/SocialMediaMarketing/](r/SocialMediaMarketing/)
 
 **Traditional**
 
-- r/adops
-- r/adporn
-- r/advertising
-- r/copywriting
-- r/contentstrategist
+- [https://www.reddit.com/r/advertising/](r/advertising)
+- [https://www.reddit.com/r/copywriting/](r/copywriting)
+- [https://www.reddit.com/r/contentstrategist](r/contentstrategist)
+- [https://www.reddit.com/r/adops/ "Advertising Operations (AdOps)"](r/adops)
+- [https://www.reddit.com/r/AdPorn/](r/adporn)
 
 **Digital**
 
-- r/analytics
-- r/bigSEO
-- r/content
-- r/PPC
-- r/SEO
-- r/socialmedia
-- r/socialmediaanalytics/
+- [https://www.reddit.com/r/analytics/](r/analytics)
+- [https://www.reddit.com/r/bigseo/](r/bigSEO)
+- [https://www.reddit.com/r/content/](r/content)
+- [https://www.reddit.com/r/PPC/](r/PPC)
+- [https://www.reddit.com/r/SEO/](r/SEO)
+- [https://www.reddit.com/r/socialmedia/](r/socialmedia)
+- [https://www.reddit.com/r/socialmediaanalytics/](r/socialmediaanalytics/)
 
 **Business**
 
-- r/freelance
-- r/smallbusiness
-- r/startups
-- r/entrepreneur
-- r/advancedentrepreneur
+- [https://www.reddit.com/r/freelance/](r/freelance)
+- [https://www.reddit.com/r/smallbusiness/](r/smallbusiness)
+- [https://www.reddit.com/r/startups/](r/startups)
+- [https://www.reddit.com/r/Entrepreneur/](r/entrepreneur)
+- [https://www.reddit.com/r/advancedentrepreneur/](r/advancedentrepreneur)
 
 [π](http://redditmetrics.com/r/EngagementMarketing "you found a secret!")
 
