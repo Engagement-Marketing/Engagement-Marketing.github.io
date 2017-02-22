@@ -1,57 +1,6 @@
-Table of Contents
-- [Cause Marketing](#cause-marketing)
-- [Close Range Marketing (CRM)](#close-range-marketing-crm)
-- [Relationship Marketing](#relationship-marketing)
-- [Transactional Marketing](#transactional-marketing)
-- [Scarcity Marketing](#scarcity-marketing)
-- [Word of Mouth Marketing](#word-of-mouth-marketing)
-- [Call to Action (CTA) Marketing](#call-to-action-cta-marketing)
-- [Viral Marketing](#viral-marketing)
-- [Diversity Marketing](#diversity-marketing)
-- [Undercover Marketing](#undercover-marketing)
-- [Mass Marketing](#mass-marketing)
-- [Seasonal Marketing](#seasonal-marketing)
-- [PR Marketing](#pr-marketing)
-- [Online Marketing](#online-marketing)
-- [Email Marketing](#email-marketing)
-- [Evangelism Marketing](#evangelism-marketing)
-- [Event Marketing](#event-marketing)
-- [Offline Marketing](#offline-marketing)
-- [Outbound Marketing](#outbound-marketing)
-- [Direct Marketing](#direct-marketing)
-- [Inbound Marketing](#inbound-marketing)
-- [Freebie Marketing](#freebie-marketing)
-- [Newsletter Marketing](#newsletter-marketing)
-- [Article Marketing](#article-marketing)
-- [Content Marketing](#content-marketing)
-- [Tradeshow Marketing](#tradeshow-marketing)
-- [Search Marketing](#search-marketing)
-- [Direct Marketing](#direct-marketing)
-- [Niche Marketing](#niche-marketing)
-- [Drip Marketing](#drip-marketing)
-- [Community Marketing](#community-marketing)
-- [Social Media Marketing](#social-media-marketing)
-- [Cross-Media Marketing](#cross-media-marketing)
-- [B2B Marketing](#b2b-marketing)
-- [Promotional Marketing](#promotional-marketing)
-- [Ambush Marketing](#ambush-marketing)
-- [B2C Marketing](#b2c-marketing)
-- [Cloud Marketing](#cloud-marketing)
-- [Mobile Marketing](#mobile-marketing)
-- [Alliance Marketing](#alliance-marketing)
-- [Reverse Marketing](#reverse-marketing)
-- [Telemarketing](#telemarketing)
-- [Free Sample Marketing](#free-sample-marketing)
-- [Direct Mail Marketing](#direct-mail-marketing)
-- [Database Marketing](#database-marketing)
-- [Personalized Marketing](#personalized-marketing)
-- [Affinity Marketing](#affinity-marketing)
-- [Cult-tural Marketing](#cult-tural-marketing)
-- [Humanistic Marketing](#humanistic-marketing)
-- [Guerrilla Marketing](#guerrilla-marketing)
-- [Brand Lover Marketing](#brand-lover-marketing)
+# Types of Marketing Strategies
 
-# Types of Marketing Strategies:
+[TOC]
 
 ## Cause Marketing
 
@@ -257,30 +206,23 @@ There are two main types of marketing databases:
 Consumer databases are primarily geared towards companies that sell to consumers, often abbreviated as [business-to-consumer] (B2C) or BtoC. Business marketing databases are often much more advanced in the information that they can provide. This is mainly because business databases aren't restricted by the same privacy laws as consumer databases.
 
 ## Personalized Marketing
-
 Personalized marketing (also called personalization, and sometimes called one-to-one marketing) is an extreme form of product differentiation. Whereas product differentiation tries to differentiate a product from competing ones, personalization tries to make a unique product offering for each customer. Nike ID is a popular brand that has developed a strong business around this personalization marketing concept.
 
 ## Affinity Marketing
-
 Create strategic partnerships that are mutually beneficial by forming alliances with complementary brands. Also known as partnership marketing, with this strategy, one brands generates sales while the other creates new customers and builds brand awareness.
 
 ## Cult-tural Marketing
-
 The proposition of cult marketing holds reign upon the notion that a way to convert--ahem, excite ... OK, convert--consumers is by using timeless human behavioral drives found in religious cults. Heck, fellow acolytes, nothing is more permission-, buzz- and one-to-one-based than "a central ideology with a parallel social universe rich with customs." Cult marketing is a bright spot in the list of newfangled marketing templates, one that applies timeless social-science principles in a powerful way. To the list of newfangled marketing buzzwords, let's add the term cult.
 
 ## Humanistic Marketing
-
 Human needs are "a state of felt deprivation." They distinguish between physical needs (food, shelter, safety, clothing), social needs (belonging and affection), and individual needs (knowledge, self-expression). Needs are a relatively narrow set of non-cultural states of felt deprivation.
 
 ## Guerrilla Marketing
-
 Grass root, untraditional, and low-budget methods that found involve creativity, big crowds of people, and the element of surprise to market or promote a product, service, brand, event, or new launch.
 
 ## Brand Lover Marketing
-
 Brand Lover Marketing is a marketing concept that is intended to replace the idea of traditional brand marketing. Brands are running out of juice and Brand Lovers are what is needed to rescue brands. But what builds loyalty that goes beyond reason? What makes a truly great brand stand out? Brand Lovers bring brands to life. For a brand to elevate itself into the "Cult Brand" category, it has to give customers a feeling of belonging while generating strong feelings of love for its customers. Creating loyalty beyond reason requires emotional connections that generate the highest levels of love and a sense of belonging for your brand.
 
-
-### Sources:
+## Sources
 -  [A-Z of Experiential Marketing – E for Engagement](http://blog.lineup.uk.com/a-z-of-experiential-marketing-e-for-engagement/)
 - [52 Types of Marketing Strategies](http://cultbranding.com/ceo/52-types-of-marketing-strategies/)
